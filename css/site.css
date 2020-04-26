@@ -16,6 +16,22 @@ form label {
 button[type=button] {
     display: inline-block;
     margin-left: 2em;
+    margin-top: 5%;
+}
+
+button:hover{
+    background-color:rgb(214, 214, 214);
+}
+
+
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+h1{
+    text-align: center;
 }
 
 /*
